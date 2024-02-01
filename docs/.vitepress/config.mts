@@ -4,6 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "FFTA",
   description: "An adventure of the Ivalice World",
+  base: '/ffta/',
   appearance: 'dark',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
