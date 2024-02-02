@@ -1,0 +1,32 @@
+|                                                        | **人物介绍**                                                 |                                                              |
+| ------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 现实世界                                               | 人物                                                         | 幻想世界                                                     |
+| ![img](http://ffta.ffsky.cn/face/face_mash_real.gif)   | マーシュ·ラディウユ（马修.拉迪乌斯）           本作主人公。游戏的舞台是位于圣.依巴利斯，故事是从马修回到母亲的田舍开始的。马修回到田舍的理由是父母离婚导致的家庭矛盾以及为生病的弟弟寻找安心的环境。 | ![img](http://ffta.ffsky.cn/face/face_mash.gif)              |
+| ![img](http://ffta.ffsky.cn/face/face_mute_real.gif)   | ミュート·ランデル（缪特.兰德尔）           另一个主人公。作为马修同学的他时刻抱着玩具熊不离手，是一个显得有点奇怪的男孩子。由于母亲的病故以及父亲不良生活习惯，所以他很孤单，那只玩具熊是他母亲买给他的宝物。 | ![img](http://ffta.ffsky.cn/face/face_mute.gif)       ![img](http://ffta.ffsky.cn/face/face_mute2.gif)         |
+| ![img](http://ffta.ffsky.cn/face/face_litz_real.gif) ![img](http://ffta.ffsky.cn/face/face_litz_real2.gif)    | リッツ·マルール（利茨.马露尔）           本作女主人公，马修和缪特的同学。与两位男主人公相反，天性活泼开朗的她无论运动还是学习都很优秀。由于她直爽的性格使得周围人对其有些敬而远之。但这样的她也为自己原本的“白发”十分在意。 | ![img](http://ffta.ffsky.cn/face/face_litz.gif)              |
+| ![img](http://ffta.ffsky.cn/face/face_donedo_real.gif) | ドネッド·ラディウユ（多内德.拉迪乌斯）           主人公マーシュ的弟弟，身有残疾，只能天天座在轮椅上，十分向往能自由行动的生活，为了留在能够自由走动的幻想世界里，他千方百计阻止哥哥寻找回到原来世界的方法。 | ![img](http://ffta.ffsky.cn/face/face_donedo.gif)            |
+| ![img](http://ffta.ffsky.cn/face/face_cid_real.gif)   ![img](http://ffta.ffsky.cn/face/face_cid_real2.gif)  | シド·ランデル（西德.兰德尔）           在现代的圣.依巴利斯，妻子去世后便无节制的饮酒。而在变化后的依巴利斯中作为战斗裁判和司法者出现。既是缪特的父亲，又是威严的西德，他对依巴利斯女王和王子非常忠诚。 | ![img](http://ffta.ffsky.cn/face/face_cid.gif)               |
+|                                                        | レメディ·ランデル（蕾美迪.兰德尔）           剑与魔法的王国依巴利斯的女王，其实正体是缪特去世的母亲，是王国实际上的权力者。她具有强大的力量，按照缪特的想法制定法律，操作着王国的命运。 | ![img](http://ffta.ffsky.cn/face/face_lemedy.gif)            |
+|                                                        | モンブラン（梦布兰）           帮助在依巴利斯异世界迷惑的马修的莫古利族青年，为六人兄弟之首。相貌可爱，值得信赖，但由于手脚不熟练，在弟弟们学习机工的时候，只有梦布兰在钻研魔法。 | ![img](http://ffta.ffsky.cn/face/face_monbulan.gif)          |
+|                                                        | ノノ（诺诺）           梦布兰的四弟，在众兄弟中手脚最灵巧。在飞空艇工房实习，制造出自己的飞空艇。为了修理费开始用飞空艇做生意。与哥哥不同，具有比较坚强的性格。 | ![img](http://ffta.ffsky.cn/face/face_nono.gif)              |
+|                                                        | シャアラ（莎拉）           比艾拉族少女，在依巴利斯是利茨的好友。性格与利茨相仿，是先行动再思考的类型。她尤其怕虫，对被询问去消灭虫系怪物时的反应是“我等下一个……（我PASS）” | ![img](http://ffta.ffsky.cn/face/face_shara.gif)             |
+|                                                        | レドナ·トェム（雷那多.托艾姆）           女王レメディ的贴身护卫，出身不名的奇怪少年。 | ![img](http://ffta.ffsky.cn/face/face_lenado.gif)            |
+|                                                        | エゼル·バルビエ（艾泽尔.巴尔比艾）           与普通炼金术士不一样，使用“精炼术”的恩莫族青年。在温厚的恩莫族中，他是少有的精力旺盛类型，而且得到了能够对依巴利斯的法律施加影响的“反法”之秘术。 | ![img](http://ffta.ffsky.cn/face/face_ezel.gif)              |
+|                                                        | バブズ·スエイン（巴布兹.斯艾因）           恩莫族的魔法师，ミュート忠诚的仆人。 | ![img](http://ffta.ffsky.cn/face/face_babuz.gif)             |
+| ![img](http://ffta.ffsky.cn/face/face_student1.gif)    | 主人公マーシュ和ミュート的同学，在序幕的打雪仗中登场，喜欢欺负弱小的ミュート，在任务“教授の受難”中悲惨地变成了僵尸。 | ![img](http://ffta.ffsky.cn/face/monster_zombie.gif)         |
+| ![img](http://ffta.ffsky.cn/face/face_student2.gif)    | 同上                                                         | ![img](http://ffta.ffsky.cn/face/monster_zombie.gif)         |
+| ![img](http://ffta.ffsky.cn/face/face_student3.gif)    | 同上                                                         | ![img](http://ffta.ffsky.cn/face/monster_zombie.gif)         |
+| ![img](http://ffta.ffsky.cn/face/face_student4.gif)    | ドネッド的同学，很想了解ドネッド在幻想世界的经历。           |                                                              |
+| ![img](http://ffta.ffsky.cn/face/face_student5.gif)    | 主人公マーシュ和ミュート的同学，在序幕的打雪仗中登场。       |                                                              |
+| ![img](http://ffta.ffsky.cn/face/face_student6.gif)    | 同上                                                         |                                                              |
+| ![img](http://ffta.ffsky.cn/face/face_teacher.gif)     | 主人公マーシュ和ミュート的老师，在序幕的打雪仗中登场。       |                                                              |
+|                                                        | 幻想世界的执法者，若违反了法律，就会立刻被他们送到监狱里去。 | ![img](http://ffta.ffsky.cn/face/face_judge1.gif)![img](http://ffta.ffsky.cn/face/face_judge2.gif) |
+|                                                        | 酒馆（パブ）里的老板，提供各种情报和任务，游戏中不可或缺的重要人物。看他的样子，难道是已经退休的パラディン？ | ![img](http://ffta.ffsky.cn/face/face_pub.gif)               |
+|                                                        | ン·モウ族的めたもる士，怪物银行（モンスタ-バンク）的管理者。 | ![img](http://ffta.ffsky.cn/face/face_monsterparl.gif)       |
+|                                                        | 身穿黑色铠甲的バンガ族守護騎士，监狱（プリズン）的管理人。   | ![img](http://ffta.ffsky.cn/face/face_prison.gif)            |
+|                                                        | 初始之镇的商店（ショップ）售货员。                           | ![img](http://ffta.ffsky.cn/face/face_shop_human.gif)        |
+|                                                        | 山镇的バンガ族售货员。                                       | ![img](http://ffta.ffsky.cn/face/face_shop_banga.gif)        |
+|                                                        | モーグリ族的售货员。                                         | ![img](http://ffta.ffsky.cn/face/face_shop_mog.gif)          |
+|                                                        | ン·モウ族的售货员。                                          | ![img](http://ffta.ffsky.cn/face/face_shop_nnmo.gif)         |
+|                                                        | ヴィエラ族的售货员。                                         | ![img](http://ffta.ffsky.cn/face/face_shop_viera.gif)        |
+| ![img](http://ffta.ffsky.cn/face/face_man.gif)         | 和西德一起喝酒的人                                           |                                                              |

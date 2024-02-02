@@ -11,21 +11,18 @@ hero:
     alt: Game Cover
   actions:
     - theme: brand
-      text: 全任务列表
-      link: /markdown-examples
+      text: 攻略手册
+      link: /guide/transfer
     - theme: alt
-      text: 职业一览
-      link: /api-examples
+      text: 系统精研
+      link: /research/steal1
     - theme: alt
-      text: 特技一览
-      link: /api-examples
-    - theme: alt
-      text: 装备与物品
-      link: /api-examples
+      text: 基本信息
+      link: /base/character
 
 features:
   - title: 生产商
-    details: Square
+    details: Square #(http://www.square-enix.net.cn/)
   - title: 游戏类型
     details: S·RPG
   - title: 发售日
