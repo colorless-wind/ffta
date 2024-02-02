@@ -6,6 +6,22 @@ export default defineConfig({
   description: "An adventure of the Ivalice World",
   base: '/ffta/',
   appearance: 'dark',
+  head: [
+    // [
+    //   'link',
+    //   {
+    //     rel: 'stylesheet',
+    //     href: 'https://static.yicode.tech/vitepress/vitepress.css'
+    //   }
+    // ],
+    [
+      'link',
+      {
+        rel: 'shortcut icon',
+        href: '/ffta/favicon.ico'
+      }
+    ]
+  ],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
